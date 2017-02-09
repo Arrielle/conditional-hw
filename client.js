@@ -14,7 +14,15 @@ function conditional(x, y) {
 
 }
 
+//testing
+
 conditional(9, 4);
 conditional(2, 19);
 conditional('9 taco', 9);
-conditional('Space tacos are the best!');
+conditional('Space tacos are the best!', 'Another String');
+
+
+// my code doesn't really work with the following problems;
+
+conditional('Space whales ingest many tacos', 89);
+conditional('Space kittens ride on tacos,', '89');
